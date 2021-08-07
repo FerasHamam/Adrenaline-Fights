@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: eda5373eb5fd97145b58fac6c3322ad2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2438843692111428158
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_0
+  - first:
+      213: -8563709173303063061
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_1
+  - first:
+      213: 1679047562207447648
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_2
+  - first:
+      213: -4672794299001965419
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_3
+  - first:
+      213: 2457171140144890426
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_4
+  - first:
+      213: 958174811943100119
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_5
+  - first:
+      213: 2032318256154308932
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_6
+  - first:
+      213: -1505838535256313834
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_7
+  - first:
+      213: -4549387794716611004
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_8
+  - first:
+      213: 6212243168837066871
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_9
+  - first:
+      213: -8040934165424793018
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_10
+  - first:
+      213: 6907824763432811890
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_11
+  - first:
+      213: 1520410937095380540
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_12
+  - first:
+      213: 7839369981503241328
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_13
+  - first:
+      213: -7205419018203266653
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_14
+  - first:
+      213: -884812012198553014
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_15
+  - first:
+      213: 9183755703492626123
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_16
+  - first:
+      213: 522556969737246631
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_17
+  - first:
+      213: -4014379253174447917
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_18
+  - first:
+      213: 1777824953507793642
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_19
+  - first:
+      213: 948418448883126503
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_20
+  - first:
+      213: -3532976071123289394
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_21
+  - first:
+      213: 3274263029290020421
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_22
+  - first:
+      213: 1823163781446146730
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_23
+  - first:
+      213: -276514882273866795
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_24
+  - first:
+      213: -5590954298171433556
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_25
+  - first:
+      213: -7290805622025741911
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_26
+  - first:
+      213: 605276443048621532
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_27
+  - first:
+      213: -2091624967421755216
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_28
+  - first:
+      213: -709578854308753680
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_29
+  - first:
+      213: 5012012663151419960
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_30
+  - first:
+      213: 2625394647326949295
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_31
+  - first:
+      213: -5487314180596530045
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_32
+  - first:
+      213: -1043459008494172748
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_33
+  - first:
+      213: -4463865576528976248
+    second: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+      (1)_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c50ff4659c772ed0800000000000000
+      internalID: -2438843692111428158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed448d11e7972980800000000000000
+      internalID: -8563709173303063061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a4c52acdc2d4710800000000000000
+      internalID: 1679047562207447648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5947483b756e62fb0800000000000000
+      internalID: -4672794299001965419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a328da02220a91220800000000000000
+      internalID: 2457171140144890426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de58923aee1c4d00800000000000000
+      internalID: 958174811943100119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4417e90bfae343c10800000000000000
+      internalID: 2032318256154308932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610f3f894df2a1be0800000000000000
+      internalID: -1505838535256313834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e2b6687e35dd0c0800000000000000
+      internalID: -4549387794716611004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77061e88f32563650800000000000000
+      internalID: 6212243168837066871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a9d8faafcd86090800000000000000
+      internalID: -8040934165424793018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3f0be5068ddf50800000000000000
+      internalID: 6907824763432811890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e503a11b5991510800000000000000
+      internalID: 1520410937095380540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c7c52a6790bcc60800000000000000
+      internalID: 7839369981503241328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a186223495310c90800000000000000
+      internalID: -7205419018203266653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a18efa92488b3f0800000000000000
+      internalID: -884812012198553014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc645aa9721437f70800000000000000
+      internalID: 9183755703492626123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d71c9bce704700800000000000000
+      internalID: 522556969737246631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d6dc965f0a48c0800000000000000
+      internalID: -4014379253174447917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea48aa306a1ca810800000000000000
+      internalID: 1777824953507793642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e01b18ed85792d00800000000000000
+      internalID: 948418448883126503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecabdb85bf858fec0800000000000000
+      internalID: -3532976071123289394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ea60a90e4807d20800000000000000
+      internalID: 3274263029290020421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa9478bccd2d4910800000000000000
+      internalID: 1823163781446146730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db05fafd2f992cf0800000000000000
+      internalID: -276514882273866795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5c0e10b0f862b0800000000000000
+      internalID: -5590954298171433556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a91cb44aead1da90800000000000000
+      internalID: -7290805622025741911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd533d2d7bf566800800000000000000
+      internalID: 605276443048621532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b00d7d8c2e09f2e0800000000000000
+      internalID: -2091624967421755216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe4cc0aac11726f0800000000000000
+      internalID: -709578854308753680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83266ec56fe3e8540800000000000000
+      internalID: 5012012663151419960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf722595864f6420800000000000000
+      internalID: 2625394647326949295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384849663d429d3b0800000000000000
+      internalID: -5487314180596530045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5060d6f83e481f0800000000000000
+      internalID: -1043459008494172748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom tile set WIP _ Dungeons & Dragons_ Castle Ravenloft Board Game
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88665e1a8e92d02c0800000000000000
+      internalID: -4463865576528976248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
